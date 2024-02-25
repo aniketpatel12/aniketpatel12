@@ -1,31 +1,53 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>
-<h3 align="center">A passionate DevOps enthusiast learner.</h3>
+<h3 align="center">A passionate software engineer who thinks with both left and right brains whether it's a problem-solving, creating/building applications or photography</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpatel12&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpatel12" /> </p>
+📍 **Location:** Long Beach, CA  
+📧 **Email:** [patelaniket1208@gmail.com](mailto:patelaniket1208@gmail.com)  
+🌐 **LinkedIn:** [aniketp3012](https://www.linkedin.com/in/aniketp3012/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketpatel12" alt="aniketpatel12" /></a> </p>
+### 🎓 Education
+- **Master of Science in Computer Science**  
+  California State University, Long Beach, CA  
+  _Aug 2023 - May 2025 (Expected)_  
 
-- 🌱 I’m currently learning **DevOps tools.**
+- **Bachelor of Technology in Computer Engineering**  
+  Charotar University of Science and Technology (CHARUSAT), Gujarat, IN  
+  _July 2018 - April 2022_  
+  _CGPA: 3.90_
 
-- 💬 Ask me about **AWS Projects, DevOps**
+### 💼 Work Experience
+- **Software Engineer** | _California State University, Office of Chancellor (Long Beach, CA)_ | _Nov 2023 - Present_
+  
+- **Software Development Engineer** | _Crest Data Systems Pvt. Ltd. (Ahmedabad, IN)_ | _May 2022 - July 2023_
 
-- 📫 How to reach me **patelaniket1208@gmail.com**
+- **Software Development Engineer Intern** | _Crest Data Systems Pvt. Ltd. (Ahmedabad, IN)_ |  _Dec 2021 - May 2022_
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **Software Engineer Intern** | _Plutomen Technologies (Ahmedabad, IN)_ | _Jun 2021 - Aug 2021_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aniketpatel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aniketpatel12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniket-patel-2a52851a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-patel-2a52851a3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/18ce069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="18ce069" height="30" width="40" /></a>
-</p>
+### 👨‍💻 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+- **Pathfinding Visualizer:**
+  - Visualize various pathfinding algorithms (Dijkstra, Bellman-Ford, BFS, DFS, A* Search)
+  - Developed in React.JS hosted on AWS, configured CI/CD so that only tested commits will build and deploy to production servers.
+  - _**Technologies**: (React.js, JavaScript, SCSS, HTML, Git, AWS (S3, Lambda, API Gateway), Jenkins)_
+    
+- **FoodEasy:** 
+  - Developed a Scalable and Secure web application using NodeJS, JavaScript, MongoDB, CSS, HTML5 
+  - Created end-to-end seamless CI/CD pipeline using GitHub Actions to deploy the code to the servers for faster software development
+  - _**Technologies**: (Node.js, JavaScript, MongoDB, GitHub Actions, Git, AWS (EC2, DynamoDB, Lambda, API Gateway, CloudWatch logs))_
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketpatel12&show_icons=true&locale=en" alt="aniketpatel12" /></p>
+### 🛠️ Skills
+- **Programming Languages:** Python, Go Lang, Java, C++, C, SQL
+- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Bootstrap, JSON, SCSS, HTML5
+- **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
+- **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git
+- **Databases**: DynamoDB, Mongo DB, MySQL, SQL, Redis, AWS RDS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketpatel12&" alt="aniketpatel12" /></p>
+### 🌱 Interests
+- Software Engineering, Data Science, Data Engineering, DevOps, AI, GenAI, Quantitative Finance
 
+### 🎖️ Professional Certification and Achievements
+- **Certified Kubernetes Administrator** (CKA) [ Certificate ](https://www.credly.com/badges/a3411672-4235-4f99-8ccc-5702e97b5b80)
+- **AWS Certified Solution Architect Associate** & **AWS Certified Cloud Practitioner** [ Certificate ](https://www.credly.com/badges/e321c105-8e87-4e1c-a5ab-896527caef5b/public_url)
+- Got a Hall of Fame **(Rank: 9)** out of 500+ participants, in the Vulnerability Challenge conducted by **BugCrowd** [ Hall Of Fame ](https://drive.google.com/file/d/1dBlt6jcit4MH5otb1c1MmhRDXH9c-Oe3/view)
+- Qualified in the Top 20 in GitHub Field Day India at the national level event of GitHub
