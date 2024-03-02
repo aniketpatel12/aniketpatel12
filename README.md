@@ -4,6 +4,7 @@
 📍 **Location:** Long Beach, CA  
 📧 **Email:** [patelaniket1208@gmail.com](mailto:patelaniket1208@gmail.com)  
 🌐 **LinkedIn:** [aniketp3012](https://www.linkedin.com/in/aniketp3012/)
+📖 **Medium:** [aniketpatel0812](https://medium.com/@aniketpatel0812)
 
 ### 🎓 Education
 - **Master of Science in Computer Science**  
