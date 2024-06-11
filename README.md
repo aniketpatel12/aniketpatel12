@@ -17,6 +17,8 @@
   _CGPA: 3.90_
 
 ### 💼 Work Experience
+- **Software Engineer Intern** | _Viasat Inc. (San Diego, CA)_ | _May 2024 - Present_
+  
 - **Software Engineer** | _California State University, Office of Chancellor (Long Beach, CA)_ | _Nov 2023 - Present_
   
 - **Software Development Engineer** | _Crest Data Systems Pvt. Ltd. (Ahmedabad, IN)_ | _May 2022 - July 2023_
