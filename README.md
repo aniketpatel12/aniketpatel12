@@ -18,14 +18,19 @@
 
 ### 💼 Work Experience
 - **Software Engineer Intern** | _Viasat Inc. (San Diego, CA)_ | _May 2024 - Present_
+    - _**Technologies**: (React.JS, Django, FastAPI, GOlang, PostgreSQL, Jenkins(CI/CD), AWS, Grafana, Github WorkFlows)_
   
 - **Software Engineer** | _California State University, Office of Chancellor (Long Beach, CA)_ | _Nov 2023 - Present_
+    - _**Technologies**: (JavaScript, Artificial Intelligence, Azure)_
   
 - **Software Development Engineer** | _Crest Data Systems Pvt. Ltd. (Ahmedabad, IN)_ | _May 2022 - July 2023_
+    - _**Technologies**: (React.JS, TypeScript, GraphQL, AWS, Kubernetes, Docker, SQL, Gitlab, Terraform, Ansible)_
 
 - **Software Development Engineer Intern** | _Crest Data Systems Pvt. Ltd. (Ahmedabad, IN)_ |  _Dec 2021 - May 2022_
+    - _**Technologies**: (JavaScript, Node.JS, MongoDB, AWS, Azure, Python, Jenkins, CI/CD, Grafana, Prometheues, OpsGenie)_
 
 - **Software Engineer Intern** | _Plutomen Technologies (Ahmedabad, IN)_ | _Jun 2021 - Aug 2021_
+    - _**Technologies**: (React.js, JavaScript, SCSS, HTML, Git, AWS (S3, Lambda, API Gateway))_
 
 ### 👨‍💻 Projects
 
@@ -44,7 +49,7 @@
 - **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Bootstrap, JSON, SCSS, HTML5
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
 - **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git
-- **Databases**: DynamoDB, Mongo DB, MySQL, SQL, Redis, AWS RDS
+- **Databases**: DynamoDB, Mongo DB, PostgreSQL, MySQL, SQL, Redis, AWS RDS
 
 ### 🌱 Interests
 - Software Engineering, Data Science, Data Engineering, DevOps, AI, GenAI, Quantitative Finance
