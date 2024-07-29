@@ -7,16 +7,16 @@
 📖 **Medium:** [aniketpatel0812](https://medium.com/@aniketpatel0812)
 
 ### 🛠️ Skills
-- **Programming Languages:** Python, Go Lang, Java, C++, C, SQL
-- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Bootstrap, JSON, SCSS, HTML5
+- **Programming Languages:** Python, Golang, Java, C++, Bash Scripts
+- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Flask, Django, Bootstrap, Tailwind CSS, JSON, SCSS, HTML5
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
-- **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git
+- **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git, RabbitMQ, Kafka
 - **Databases**: DynamoDB, Mongo DB, PostgreSQL, MySQL, SQL, Redis, AWS RDS
 
 ### 💼 Work Experience
 - **Software Engineer Intern**  
   _Viasat Inc. (San Diego, CA)_ [ _May 2024 - Present_ ]
-  - **Technologies**: React.JS, Django, FastAPI, GOlang, PostgreSQL, Jenkins(CI/CD), AWS, Grafana, Github WorkFlows
+  - **Technologies**: Golang, React.js, RabbitMQ, PostgreSQL, Redis, Kubernetes, Docker, Jenkins CI/CD, Django, RESTful APIs
  
 - **Software Developer**  
   _CSU Chancellor Office (Los Angeles, CA)_ [ _Nov 2023 - Present_ ]
