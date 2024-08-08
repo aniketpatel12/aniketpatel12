@@ -8,7 +8,7 @@
 
 ### 🛠️ Skills
 - **Programming Languages:** Python, Golang (GO), Java, C++, Bash Scripts
-- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Flask, Django, jQuery, Ajax Bootstrap, Tailwind CSS, JSON, SCSS, HTML5
+- **Web Development**: TypeScript, GraphQL, Next.js, React.js, Redux, Node.js, Express.js, JavaScript, Flask, Django, jQuery, Ajax Bootstrap, Tailwind CSS, JSON, SCSS, HTML5
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
 - **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git, RabbitMQ, Kafka, ArgoCD
 - **Databases**: DynamoDB, MongoDB, PostgreSQL, MySQL, SQL, Redis, AWS RDS, Firebase
