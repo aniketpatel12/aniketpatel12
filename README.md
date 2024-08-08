@@ -7,11 +7,11 @@
 📖 **Medium:** [aniketpatel0812](https://medium.com/@aniketpatel0812)
 
 ### 🛠️ Skills
-- **Programming Languages:** Python, Golang, Java, C++, Bash Scripts
-- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Flask, Django, Bootstrap, Tailwind CSS, JSON, SCSS, HTML5
+- **Programming Languages:** Python, Golang (GO), Java, C++, Bash Scripts
+- **Web Development**: TypeScript, GraphQL, React.js, Redux, Node.js, Express.js, JavaScript, Flask, Django, jQuery, Ajax Bootstrap, Tailwind CSS, JSON, SCSS, HTML5
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
-- **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git, RabbitMQ, Kafka
-- **Databases**: DynamoDB, Mongo DB, PostgreSQL, MySQL, SQL, Redis, AWS RDS
+- **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform, GitLab CI, Ansible, GitHub Actions, Nginx, Git, RabbitMQ, Kafka, ArgoCD
+- **Databases**: DynamoDB, MongoDB, PostgreSQL, MySQL, SQL, Redis, AWS RDS, Firebase
 
 ### 💼 Work Experience
 - **Software Engineer Intern**  
@@ -22,34 +22,40 @@
   _CSU Chancellor Office (Los Angeles, CA)_ [ _Nov 2023 - Present_ ]
   - **Technologies**: Artificial Intelligence, Azure, JavaScript, AWS, SEO
  
-- **Software Development Engineer**  
-  _Crest Data Systems (India)_ [ _May 2022 - July 2023_ ]
+- **Software Development Engineer-2**  
+  _Splunk (India)_ [ _June 2022 - July 2023_ ]
+  - Worked as a Software Developer (Contractor) with Splunk via Crest Data Systems
   - **Technologies**: React.JS, TypeScript, GraphQL, AWS, Kubernetes, Docker, SQL, Gitlab, Terraform, Ansible
 
-- **Software Development Engineer Intern**  
-  _Crest Data Systems (India)_ [ _Dec 2021 - April 2022_ ]
+- **Software Development Engineer-1**  
+  _Crest Data Systems (India)_ [ _August 2021 - May 2022_ ]
   - **Technologies**: JavaScript, Node.JS, MongoDB, AWS, Azure, Python, Jenkins, CI/CD, Grafana, Prometheues, OpsGenie
  
 - **Software Engineer Intern**  
-  _Plutoment Technologies (India)_ [ _June 2021 - August 2021_ ]
+  _Plutoment Technologies (India)_ [ _May 2021 - August 2021_ ]
   - **Technologies**: React.js, JavaScript, SCSS, HTML, Git, AWS (S3, Lambda, API Gateway
 
 ### 🎓 Education
 - **Master of Science in Computer Science**  
   California State University, Long Beach, CA  
-  _Aug 2023 - May 2025 (Expected)_  
+  _Aug 2023 - May 2025 (Expected)_
+  _GPA: 3.75_
 
 - **Bachelor of Technology in Computer Engineering**  
   Charotar University of Science and Technology (CHARUSAT), Gujarat, IN  
-  _July 2018 - April 2022_  
-  _CGPA: 3.90_
+  _2018 - 2021_  
+  _CGPA: 3.98_
 
 ### 👨‍💻 Projects
+
+- **GraphQLDM**
+  - A powerful command-line tool for seamless GraphQL API interaction, offering easy querying, mutation execution, and data manipulation to efficiently manage and explore data through simple commands.
+  - _**Technologies**_: (TypeScript, GraphQL, AWS, Python, Bash)
 
 - **Pathfinding Visualizer:**
   - Visualize various pathfinding algorithms (Dijkstra, Bellman-Ford, BFS, DFS, A* Search)
   - Developed in React.JS hosted on AWS, configured CI/CD so that only tested commits will build and deploy to production servers.
-  - _**Technologies**: (React.js, JavaScript, SCSS, HTML, Git, AWS (S3, Lambda, API Gateway), Jenkins)_
+  - _**Technologies**: (React.js, JavaScript, Tailwind CSS, HTML, Git, AWS (S3, Lambda, API Gateway), Jenkins)_
     
 - **FoodEasy:** 
   - Developed a Scalable and Secure web application using NodeJS, JavaScript, MongoDB, CSS, HTML5 
@@ -58,7 +64,7 @@
 
 
 ### 🌱 Interests
-- Software Engineering, Data Science, Data Engineering, DevOps, AI, GenAI, Quantitative Finance
+- Software Engineering, Distributed Systems, Data Science, Data Engineering, DevOps, AI, GenAI
 
 ### 🎖️ Professional Certification and Achievements
 - **Certified Kubernetes Administrator** (CKA) [ Certificate ](https://www.credly.com/badges/a3411672-4235-4f99-8ccc-5702e97b5b80)
