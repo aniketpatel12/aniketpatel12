@@ -14,13 +14,14 @@
 - **Databases**: DynamoDB, MongoDB, PostgreSQL, MySQL, SQL, Redis, AWS RDS, Firebase
 
 ### 💼 Work Experience
-- **Software Engineer Intern**  
-  _Viasat Inc. (San Diego, CA)_ [ _May 2024 - Present_ ]
-  - **Technologies**: Golang, React.js, RabbitMQ, PostgreSQL, Redis, Kubernetes, Docker, Jenkins CI/CD, Django, RESTful APIs
- 
+
 - **Software Developer**  
   _CSU Chancellor Office (Los Angeles, CA)_ [ _Nov 2023 - Present_ ]
   - **Technologies**: Artificial Intelligence, Azure, JavaScript, AWS, SEO
+
+- **Software Engineer Intern**  
+  _Viasat Inc. (San Diego, CA)_ [ _May 2024 - Aug 2024_ ]
+  - **Technologies**: Golang, React.js, RabbitMQ, PostgreSQL, Redis, Kubernetes, Docker, Jenkins CI/CD, Django, RESTful APIs
  
 - **Software Development Engineer-2**  
   _Splunk (India)_ [ _June 2022 - July 2023_ ]
