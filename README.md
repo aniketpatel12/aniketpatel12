@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>
 <h3 align="center"><I>A passionate software engineer who thinks with both left and right brains whether it's a problem-solving, creating or building applications!</I></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpatel12&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpatel12" /> </p>
+
 📍 **Location:** Los Angeles, CA  
 📧 **Email:** [patelaniket1208@gmail.com](mailto:patelaniket1208@gmail.com)  
 🌐 **LinkedIn:** [aniketp3012](https://www.linkedin.com/in/aniketp3012/)
