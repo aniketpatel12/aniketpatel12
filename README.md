@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpatel12&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpatel12" /> </p>
 
-📍 **Location:** Los Angeles, CA  
+📍 **Location:** San Jose, CA  
 📧 **Email:** [patelaniket1208@gmail.com](mailto:patelaniket1208@gmail.com)  
 🌐 **LinkedIn:** [aniketp3012](https://www.linkedin.com/in/aniketp3012/)
 📖 **Medium:** [aniketpatel0812](https://medium.com/@aniketpatel0812)
